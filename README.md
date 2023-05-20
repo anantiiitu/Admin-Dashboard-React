@@ -5,5 +5,8 @@ different types of charts and Data tables, a Form page, an FAQ page, and an inte
 
 # Installation and Execution
 
+Install all the packages:
 npm install 
+
+Execute the application:
 npm start
